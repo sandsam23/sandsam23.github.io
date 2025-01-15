@@ -34,8 +34,6 @@ body {
    font-family: "IBM", monospace;
    font-weight: 300;
    font-style: normal;
-   /* vw scale by resolution */
-   font-size: calc(1rem + 0.4vw);
    line-height: 3ch;
 }
 
@@ -53,14 +51,12 @@ header {
 
 h1 {
    font-weight: 400;
-   font-size: calc(1.6rem + 0.4vw);
    line-height: 3ch;
    color: #008000;
 }
 
 h2 {
    font-weight: 200;
-   font-size: calc(1.3rem + 0.4vw);
    font-style: italic;
    line-height: 3ch;
    color: #d47800;
@@ -69,25 +65,13 @@ h2 {
 h3,
 h4 {
    font-weight: 300;
-   font-size: calc(1.1rem + 0.4vw);
    font-style: italic;
    line-height: 3ch;
    color: #947b5a;
 }
 
-footer > ul {
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: center;
-   gap: 18px;
-   padding: 0;
-   margin-top: 20px;
-   list-style: none;
-}
-
 h5 {
    font-weight: 300;
-   font-size: 1rem;
    font-style: italic;
    line-height: 3ch;
    color: #947b5a;
@@ -95,14 +79,8 @@ h5 {
 
 code {
    padding: 0 15px;
-   font-size: calc(0.9rem + 0.4vw);
    color: #008000;
    background-color: #000;
-}
-
-p {
-   font-size: calc(0.9rem + 0.4vw);
-   padding-bottom: 20px;
 }
 
 /* Footer */
