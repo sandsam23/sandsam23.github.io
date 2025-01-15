@@ -3,21 +3,19 @@
 }
 
 :root {
-    /* sams colors */
    --black: #000000;
    --black-2: #191919;
    --grey: #707070;
-   --blue: #11a3c7;
    --darkgrey: #545454;
    --darkgrey-2: #636363;
    --darkgrey-3: #393939;
-   --yellow: #d47800;
-   --red: #c91e49;
+   --blue: #11a3c7;
    --green: #008000;
    --purple: #663399;
    --beige: #af9e87;
    --beige-2: #947b5a;
-    /* gruvbox-dark-hard colors */
+   --yellow: #d47800;
+   --red: #c91e49;
    --gruv-bg0: #1d2021;
    --gruv-bg1: #3c3836;
    --gruv-bg2: #504945;
@@ -61,9 +59,10 @@ code {
    font-size: 1rem;
    color: var(--green);
    background-color: var(--black);
+}
 
 footer > a {
    width: 100%;
-   color: var(--gruv-red);
+   color: var(--blue);
 }
 
