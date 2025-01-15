@@ -50,19 +50,14 @@ header {
 /* Main */
 
 h1 {
-   font-weight: 400;
    color: #008000;
 }
 
 h2 {
-   font-weight: 200;
-   font-style: italic;
    color: #d47800;
 }
 
 h3,h4,h5 {
-   font-weight: 400;
-   font-style: italic;
    color: #947b5a;
 }
 
