@@ -37,7 +37,7 @@ body::-webkit-scrollbar {
 }
 
 h1 {
-   color: #008000;
+   var(--purple);
 }
 
 h2 {
