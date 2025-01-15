@@ -7,17 +7,17 @@ html {
 /* Variablen */
 
 :root {
-   --color-black: #191919;
-   --color-grey: #707070;
-   --color-blue: #11a3c7;
-   --color-darkgrey: #545454;
-   --color-darkgrey-2: #636363;
-   --color-darkgrey-3: #393939;
-   --color-yellow: #d47800;
-   --color-red: #c91e49;
-   --color-green: #008000;
-   --color-purple: #663399;
-   --color-beige: #af9e87;
+   --black: #191919;
+   --grey: #707070;
+   --blue: #11a3c7;
+   --darkgrey: #545454;
+   --darkgrey-2: #636363;
+   --darkgrey-3: #393939;
+   --yellow: #d47800;
+   --red: #c91e49;
+   --green: #008000;
+   --purple: #663399;
+   --beige: #af9e87;
 }
 
 /* Body */
@@ -37,7 +37,7 @@ body::-webkit-scrollbar {
 }
 
 h1 {
-   color: var(--color-purple);
+   color: var(--purple);
 }
 
 h2 {
