@@ -6,7 +6,7 @@ html {
 
 /* Variablen */
 
-body {
+:root {
    --color-black: #191919;
    --color-grey: #707070;
    --color-blue: #11a3c7;
@@ -37,7 +37,7 @@ body::-webkit-scrollbar {
 }
 
 h1 {
-   color: var(--purple);
+   color: var(--color-purple);
 }
 
 h2 {
