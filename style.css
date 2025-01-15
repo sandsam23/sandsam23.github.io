@@ -30,24 +30,9 @@ body {
    background-color: #191919;
 }
 
-body {
-   font-family: "IBM", monospace;
-   font-weight: 300;
-   font-style: normal;
-   line-height: 3ch;
-}
-
 body::-webkit-scrollbar {
    display: none;
 }
-
-/* Header */
-
-header {
-   width: 100%;
-}
-
-/* Main */
 
 h1 {
    color: #008000;
