@@ -1,7 +1,3 @@
-html {
-   scroll-behavior: smooth;
-}
-
 :root {
    --black: #191919;
    --grey: #707070;
@@ -17,8 +13,8 @@ html {
    --beige-2: #947b5a;
 }
 
-body::-webkit-scrollbar {
-   display: none;
+* {
+   scrollbar-width: none;
 }
 
 body {
@@ -47,8 +43,6 @@ code {
    font-size: 1rem;
    color: var(--green);
    background-color: var(--black);
-
-/* Footer */
 
 footer > a {
    width: 100%;
