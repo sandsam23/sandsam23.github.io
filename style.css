@@ -4,7 +4,8 @@
 
 :root {
     /* sams colors */
-   --black: #191919;
+   --black: #000000;
+   --black-2: #191919;
    --grey: #707070;
    --blue: #11a3c7;
    --darkgrey: #545454;
@@ -41,7 +42,7 @@ body {
    margin: 0;
    box-sizing: border-box;
    color: var(--gruv-fg4);
-   background-color: var(--black);
+   background-color: var(--black-2);
 }
 
 h1 {
@@ -63,6 +64,6 @@ code {
 
 footer > a {
    width: 100%;
-   color: var(--gruv-blue);
+   color: var(--blue);
 }
 
