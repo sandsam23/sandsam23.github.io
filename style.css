@@ -64,6 +64,6 @@ code {
 
 footer > a {
    width: 100%;
-   color: #11a3c7;
+   color: var(--gruv-blue);
 }
 
