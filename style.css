@@ -51,29 +51,18 @@ header {
 
 h1 {
    font-weight: 400;
-   line-height: 3ch;
    color: #008000;
 }
 
 h2 {
    font-weight: 200;
    font-style: italic;
-   line-height: 3ch;
    color: #d47800;
 }
 
-h3,
-h4 {
+h3,h4,h5 {
    font-weight: 300;
    font-style: italic;
-   line-height: 3ch;
-   color: #947b5a;
-}
-
-h5 {
-   font-weight: 300;
-   font-style: italic;
-   line-height: 3ch;
    color: #947b5a;
 }
 
