@@ -62,6 +62,7 @@ code {
 }
 
 footer > a {
+   margin: 0 auto;
    width: 100%;
    color: var(--blue);
 }
