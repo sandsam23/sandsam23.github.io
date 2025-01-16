@@ -56,7 +56,11 @@ h3,h4,h5 {
 }
 
 p {
+   width: 200px;
    padding-left: 8px;
+   border: solid 1px;
+   border-color: var(--gruv-red);
+   border-radius: 8px;
 }
 
 code {
