@@ -50,7 +50,7 @@ h5 {
 }
 
 p {
-   width: 300px;
+   width: 100%;
    padding-left: 8px;
    color: var(--beige-2);
    border: solid 1px;
