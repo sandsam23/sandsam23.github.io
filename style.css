@@ -55,8 +55,12 @@ h3 {
    color: var(--orange);
 }
 
-h4,h5 {
+h4 {
    color: var(--gruv-yellow);
+}
+
+h5 {
+   color: var(--gruv-green);
 }
 
 p {
