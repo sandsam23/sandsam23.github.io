@@ -67,7 +67,7 @@ div {
 }
 
 code {
-   font-size: 100%;
+   font-size: 16px;
    color: var(--green);
    background-color: var(--black);
 }
