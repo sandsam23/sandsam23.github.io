@@ -29,34 +29,23 @@ body {
    background-color: var(--black-2);
 }
 
-body {
-   font-family: "IBM", monospace;
-   font-weight: 200;
-   font-style: normal;
-   line-height: 2ch;
-}
-
 h1 {
    color: var(--gruv-aqua);
 }
 
 h2 {
-   font-weight: bold;
    color: var(--beige-2);
 }
 
 h3 {
-   font-weight: 200;
    color: var(--orange);
 }
 
 h4 {
-   font-weight: 200;
    color: var(--gruv-yellow);
 }
 
 h5 {
-   font-weight: 200;
    color: var(--gruv-green);
 }
 
@@ -70,7 +59,6 @@ p {
 }
 
 code {
-   font-size: 1rem;
    color: var(--green);
    background-color: var(--black);
 }
