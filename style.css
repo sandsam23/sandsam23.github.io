@@ -58,8 +58,16 @@ p {
    border-color: var(--red-2);
 }
 
+div {
+   width: 300px;
+   padding-left: 8px;
+   border: solid 1px;
+   border-radius: 5px;
+   border-color: var(--red-2);
+}
+
 code {
-   font-size: 105%;
+   font-size: 1rem;
    color: var(--green);
    background-color: var(--black);
 }
