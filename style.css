@@ -59,6 +59,7 @@ p {
 }
 
 code {
+   font-size: 105%;
    color: var(--green);
    background-color: var(--black);
 }
