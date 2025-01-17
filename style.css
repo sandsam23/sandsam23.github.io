@@ -29,6 +29,13 @@ body {
    background-color: var(--black-2);
 }
 
+body {
+   font-family: "IBM", monospace;
+   font-weight: 300;
+   font-style: normal;
+   line-height: 3ch;
+}
+
 h1 {
    color: var(--gruv-aqua);
 }
