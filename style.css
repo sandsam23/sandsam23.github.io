@@ -14,7 +14,7 @@
    --purple: #663399;
    --beige: #af9e87;
    --beige-2: #947b5a;
-   --yellow: #d47800;
+   --orange: #d47800;
    --red: #c91e49;
    --gruv-bg0: #1d2021;
    --gruv-bg1: #3c3836;
@@ -52,7 +52,7 @@ h2 {
 }
 
 h3 {
-   color: var(--gruv-orange);
+   color: var(--orange);
 }
 
 h4,h5 {
