@@ -31,7 +31,7 @@ body {
 
 body {
    font-family: "IBM", monospace;
-   font-weight: 300;
+   font-weight: 200;
    font-style: normal;
    line-height: 2ch;
 }
@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-   font-weight: 200;
+   font-weight: bold;
    color: var(--beige-2);
 }
 
