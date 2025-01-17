@@ -33,7 +33,7 @@ body {
    font-family: "IBM", monospace;
    font-weight: 300;
    font-style: normal;
-   line-height: 3ch;
+   line-height: 2ch;
 }
 
 h1 {
@@ -41,28 +41,32 @@ h1 {
 }
 
 h2 {
+   font-weight: 200;
    color: var(--beige-2);
 }
 
 h3 {
+   font-weight: 200;
    color: var(--orange);
 }
 
 h4 {
+   font-weight: 200;
    color: var(--gruv-yellow);
 }
 
 h5 {
+   font-weight: 200;
    color: var(--gruv-green);
 }
 
 p {
-   width: 200px;
+   width: 300px;
    padding-left: 8px;
-   border: solid 1px;
-   border-color: var(--red-2);
-   border-radius: 5px;
    color: var(--beige-2);
+   border: solid 1px;
+   border-radius: 5px;
+   border-color: var(--red-2);
 }
 
 code {
