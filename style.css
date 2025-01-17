@@ -69,7 +69,7 @@ p {
    border: solid 1px;
    border-color: var(--gruv-red);
    border-radius: 5px;
-   color: var(--beige);
+   color: var(--beige-2);
 }
 
 code {
