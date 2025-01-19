@@ -50,6 +50,8 @@ h5 {
 }
 
 p {
+   position: relative;
+   left: 50%;
    width: 300px;
    padding-left: 8px;
    border: solid 1px;
