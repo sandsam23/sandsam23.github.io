@@ -36,7 +36,7 @@ header {
 header,
 main,
 footer {
-   width: 340px;
+   width: 350px;
 }
 
 header,
@@ -91,7 +91,7 @@ code {
 
 footer {
    position: sticky;
-   bottom: 0;
+   bottom: 20px;
    text-align: left;
 }
 
