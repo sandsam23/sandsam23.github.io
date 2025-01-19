@@ -80,7 +80,6 @@ footer {
    width: 310px;
    margin: auto;
    position: fixed;
-   left: 0;
    bottom: 0;
    text-align: left;
    background-color: var(--red-2);
