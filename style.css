@@ -61,7 +61,7 @@ main,
 p,
 div,
 footer {
-   margin: auto;
+   margin: 0 auto 15px;
 }
 
 p {
