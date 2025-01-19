@@ -29,6 +29,32 @@ body {
    background-color: var(--black-2);
 }
 
+header {
+   text-align: center;
+}
+
+header,
+main,
+footer {
+   width: 340px;
+}
+
+header,
+main,
+p,
+div,
+footer {
+   margin: 0 auto 15px;
+}
+
+div {
+   width: 300px;
+   padding: 8px;
+   border: solid 1px;
+   border-radius: 5px;
+   border-color: var(--red-2);
+}
+
 h1 {
    color: var(--gruv-aqua);
 }
@@ -49,29 +75,7 @@ h5 {
    color: var(--gruv-green);
 }
 
-header,
-main,
-footer {
-   width: 340px;
-}
-
-header,
-main,
-p,
-div,
-footer {
-   margin: 0 auto 15px;
-}
-
 p {
-   width: 300px;
-   padding: 8px;
-   border: solid 1px;
-   border-radius: 5px;
-   border-color: var(--red-2);
-}
-
-div {
    width: 300px;
    padding: 8px;
    border: solid 1px;
@@ -89,10 +93,10 @@ footer {
    position: sticky;
    bottom: 0;
    text-align: left;
-   background-color: var(--red-2);
 }
 
 footer > a {
    color: var(--gruv-blue);
+   background-color: var(--red-2);
 }
 
