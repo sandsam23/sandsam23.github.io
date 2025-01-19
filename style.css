@@ -78,8 +78,6 @@ code {
 }
 
 footer {
-   position: fixed;
-   bottom: 0;
    text-align: left;
    background-color: var(--red-2);
 }
