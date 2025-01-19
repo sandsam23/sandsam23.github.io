@@ -77,7 +77,10 @@ footer {
    left: 0;
    bottom: 0;
    text-align: left;
-   color: var(--gruv-blue);
    background-color: var(--red-2);
+}
+
+footer > a {
+   color: var(--gruv-blue);
 }
 
