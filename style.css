@@ -81,7 +81,7 @@ footer {
    left: 0;
    bottom: 0;
    text-align: center;
-   background-color: #87000;
+   background-color: var(--red-2);
 }
 
 footer > a {
