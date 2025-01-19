@@ -76,8 +76,8 @@ code {
 }
 
 footer {
-   display: flex;
-   justify-content: flex-start;
+   width: 300px;
+   text-align: left;
    background-color: var(--red-2);
 }
 
