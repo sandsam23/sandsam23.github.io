@@ -72,7 +72,10 @@ code {
 }
 
 footer {
-   width: 300px;
+   width: 308px;
+   position: fixed;
+   left: 0;
+   bottom: 0;
    text-align: left;
    background-color: var(--red-2);
 }
