@@ -27,10 +27,6 @@ body {
    box-sizing: border-box;
    color: var(--darkgrey-2);
    background-color: var(--black-2);
-   display: flex;
-   justify-content: center;
-   flex-wrap: wrap;
-   gap: 15px;
 }
 
 h1 {
