@@ -51,7 +51,7 @@ h5 {
 
 main, header, footer {
    background-color: var(--green);
-   width: 300px;
+   width: 340px;
    margin: auto;
 }
 
@@ -78,7 +78,6 @@ code {
 }
 
 footer {
-   width: 310px;
    text-align: left;
    background-color: var(--red-2);
 }
