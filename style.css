@@ -76,6 +76,8 @@ code {
 }
 
 footer {
+   display: flex;
+   justify-content: flex-start;
    background-color: var(--red-2);
 }
 
