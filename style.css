@@ -96,6 +96,7 @@ footer {
 }
 
 footer > a {
+   font-size: 20px;
    color: var(--gruv-blue);
    background-color: var(--red-2);
 }
