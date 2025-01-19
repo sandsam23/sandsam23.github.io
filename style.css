@@ -53,6 +53,7 @@ header,
 main,
 footer {
    width: 340px;
+   background-color: var(--green);
 }
 
 header,
