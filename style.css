@@ -61,11 +61,11 @@ footer {
    width: 350px;
 }
 
-header,
+/*header,
 main,
 footer {
    margin: 0 auto 15px;
-}
+}*/
 
 header {
    text-align: center;
