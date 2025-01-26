@@ -82,14 +82,14 @@ p {
    width: 300px;
    padding: 8px;
    border: solid 1px;
-   border-radius: 5px;
+   border-radius: 6px;
    border-color: var(--red-2);
 }
 
 .card {
    width: 300px;
    border: solid 1px #af9e87;
-   border-radius: 8px;
+   border-radius: 6px;
    text-align: center;
    line-height: 1ch;
    color: #af9e87;
