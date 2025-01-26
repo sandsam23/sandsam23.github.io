@@ -59,6 +59,10 @@ code {
    background-color: var(--black);
 }
 
+main * {
+   margin: 0 auto 15px;
+}
+
 header,
 main,
 footer {
