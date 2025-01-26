@@ -29,32 +29,6 @@ body {
    background-color: var(--black-2);
 }
 
-header {
-   text-align: center;
-}
-
-header,
-main,
-footer {
-   width: 350px;
-}
-
-header,
-main,
-p,
-div,
-footer {
-   margin: 0 auto 15px;
-}
-
-div {
-   width: 300px;
-   padding: 8px;
-   border: solid 1px;
-   border-radius: 5px;
-   border-color: var(--red-2);
-}
-
 h1 {
    color: var(--gruv-aqua);
 }
@@ -75,18 +49,37 @@ h5 {
    color: var(--gruv-green);
 }
 
+code {
+   font-size: 14px;
+   color: var(--green);
+   background-color: var(--black);
+}
+
+header {
+   text-align: center;
+}
+
+header,
+main,
+footer {
+   width: 350px;
+}
+
+header,
+main,
+div,
+p,
+footer {
+   margin: 0 auto 15px;
+}
+
+div,
 p {
    width: 300px;
    padding: 8px;
    border: solid 1px;
    border-radius: 5px;
    border-color: var(--red-2);
-}
-
-code {
-   font-size: 14px;
-   color: var(--green);
-   background-color: var(--black);
 }
 
 .cardtextA {
