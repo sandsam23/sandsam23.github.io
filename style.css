@@ -55,10 +55,6 @@ code {
    background-color: var(--black);
 }
 
-header {
-   text-align: center;
-}
-
 header,
 main,
 footer {
@@ -70,6 +66,10 @@ main,
 div,
 footer {
    margin: 0 auto 15px;
+}
+
+header {
+   text-align: center;
 }
 
 div {
