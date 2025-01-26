@@ -57,6 +57,7 @@ body {
    box-sizing: border-box;
    color: var(--darkgrey-2);
    background-color: var(--black-2);
+   font-size: 14px;
 }
 
 body * {
