@@ -19,20 +19,6 @@
    --gruv-red: #fb4934;
 }
 
-body {
-   padding: 0;
-   margin: 0;
-   width: 100%;
-   height: 100%;
-   box-sizing: border-box;
-   color: var(--darkgrey-2);
-   background-color: var(--black-2);
-}
-
-body * {
-   margin: auto;
-}
-
 h1 {
    color: var(--gruv-aqua);
 }
@@ -59,8 +45,18 @@ code {
    background-color: var(--black);
 }
 
-main * {
-   margin: 0 auto 15px;
+body {
+   padding: 0;
+   margin: 0;
+   width: 100%;
+   height: 100%;
+   box-sizing: border-box;
+   color: var(--darkgrey-2);
+   background-color: var(--black-2);
+}
+
+body * {
+   margin: auto;
 }
 
 header,
@@ -71,15 +67,10 @@ footer {
 
 header {
    text-align: center;
-   background-color: var(--gruv-blue);
 }
 
-main {
-   background-color: var(--darkgrey-2);
-}
-
-footer {
-   background-color: var(--beige-2);
+main * {
+   margin: 0 auto 15px;
 }
 
 div,
