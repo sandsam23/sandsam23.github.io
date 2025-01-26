@@ -80,16 +80,13 @@ p {
    border-color: var(--red-2);
 }
 
-.cardtextA {
+.card {
    width: 300px;
    border: solid 1px #af9e87;
    border-radius: 8px;
+   text-align: center;
    color: #af9e87;
    background-color: darkslategrey;
-}
-
-.cardtextA p {
-   text-align: center;
 }
 
 footer {
