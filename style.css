@@ -59,16 +59,21 @@ header,
 main,
 footer {
    width: 350px;
+   padding: 0;
+   margin: auto;
 }
-
-/*header,
-main,
-footer {
-   margin: 0 auto 15px;
-}*/
 
 header {
    text-align: center;
+   background-color: var(--gruv-blue);
+}
+
+main {
+   background-color: var(--darkgrey-2);
+}
+
+footer {
+   background-color: var(--beige-2);
 }
 
 div,
