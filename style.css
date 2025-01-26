@@ -89,6 +89,10 @@ p {
    background-color: darkslategrey;
 }
 
+i {
+  font-size: 10px;
+}
+
 footer {
    position: sticky;
    bottom: 20px;
