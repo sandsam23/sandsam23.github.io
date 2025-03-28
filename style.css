@@ -26,6 +26,9 @@ h1 {
 h2 {
    color: var(--beige-2);
 }
+main * {
+   margin: 0 auto 15px;
+}
 
 h3 {
    color: var(--orange);
@@ -73,7 +76,8 @@ main * {
    margin: 0 auto 15px;
 }
 
-.container {
+div,
+p {
    width: 300px;
    padding: 8px;
    border: solid 1px;
