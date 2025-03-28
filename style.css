@@ -26,9 +26,6 @@ h1 {
 h2 {
    color: var(--beige-2);
 }
-main * {
-   margin: 0 auto 15px;
-}
 
 h3 {
    color: var(--orange);
