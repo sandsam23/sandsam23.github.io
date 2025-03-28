@@ -58,9 +58,11 @@ body {
    background-color: var(--black-2);
 }
 
+/*
 body * {
    margin: auto;
 }
+*/
 
 header,
 main,
