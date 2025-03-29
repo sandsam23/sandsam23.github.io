@@ -57,11 +57,11 @@ body {
 
 main {
    width: 350px;
-   margin: 0 auto 15px;
 }
 
 .card {
    width: 300px;
+   margin: 0 auto 15px;
    padding: 8px;
    border: solid 1px;
    border-radius: 6px;
