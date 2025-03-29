@@ -57,6 +57,7 @@ body {
 
 main {
    width: 350px;
+   margin: auto;
 }
 
 .card {
