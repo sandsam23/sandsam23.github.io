@@ -39,6 +39,11 @@ h5 {
    color: var(--gruv-green);
 }
 
+h1,h2,h3,h4,
+h5 {
+   text-align: center;
+}
+
 code {
    font-size: 14px;
    color: var(--green);
@@ -70,3 +75,6 @@ main {
    border-color: var(--red-2);
 }
 
+.cardcard {
+   margin: 0 auto;
+}
