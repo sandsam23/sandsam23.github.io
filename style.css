@@ -63,26 +63,26 @@ body {
 main {
    padding: 0;
    margin: 0 auto;
-   width: 350px;
+   width: 600;
 }
 
 .card {
    padding: 0px;
    margin: 0 auto 15px;
-   width: 300px;
+   width: 550px;
    border: solid 1px;
    border-radius: 6px;
    border-color: var(--red-2);
 }
 
 .bild {
-   height: 180px;
+   height: 200px;
    overflow: hidden;
 }
 
 .bild > img {
    width: 100%;
-   height: 180px;
+   height: 200px;
    object-fit: cover;
    border-radius: 6px;
    filter: brightness(70%);
