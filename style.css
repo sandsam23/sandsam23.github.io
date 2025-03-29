@@ -76,6 +76,7 @@ main {
 }
 
 .bild {
+   padding: 0;
    height: 180px;
    overflow: hidden;
 }
