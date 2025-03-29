@@ -56,14 +56,15 @@ body {
 }
 
 main {
+   padding: 0;
    margin: 0;
    width: 350px;
 }
 
 .card {
-   width: 300px;
-   margin: 0 auto 15px;
    padding: 8px;
+   margin: 0;
+   width: 300px;
    border: solid 1px;
    border-radius: 6px;
    border-color: var(--red-2);
