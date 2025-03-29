@@ -55,56 +55,16 @@ body {
    background-color: var(--black-2);
 }
 
-body * {
-   margin: auto;
-}
-
-header,
-main,
-footer {
+main {
    width: 350px;
-}
-
-header {
-   text-align: center;
-}
-
-main * {
    margin: 0 auto 15px;
 }
 
-div,
-p {
+.card {
    width: 300px;
    padding: 8px;
    border: solid 1px;
    border-radius: 6px;
    border-color: var(--red-2);
-}
-
-.card {
-   width: 300px;
-   border: solid 1px #af9e87;
-   border-radius: 6px;
-   line-height: 1.6;
-   color: #af9e87;
-   background-color: darkslategrey;
-}
-
-i {
-  font-size: 10px;
-}
-
-footer {
-   position: sticky;
-   bottom: 20px;
-   text-align: left;
-}
-
-footer > a {
-   font-size: 20px;
-   text-decoration: none;
-   color: var(--gruv-blue);
-   background-color: var(--red-2);
 }
 
