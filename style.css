@@ -67,7 +67,7 @@ main {
 }
 
 .card {
-   padding: 8px;
+   padding: 0px;
    margin: 0 auto 15px;
    width: 300px;
    border: solid 1px;
