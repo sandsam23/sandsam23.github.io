@@ -66,6 +66,10 @@ main {
    width: 600;
 }
 
+.cardcontainer {
+   display: flex;
+}
+
 .card {
    padding: 0px;
    margin: 0 auto 15px;
