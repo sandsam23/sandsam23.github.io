@@ -56,8 +56,8 @@ body {
 }
 
 main {
+   margin: 0;
    width: 350px;
-   margin: auto;
 }
 
 .card {
