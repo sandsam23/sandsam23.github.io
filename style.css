@@ -80,6 +80,7 @@ main {
    overflow: hidden;
 }
 
+/*
 .bild > img {
    width: 100%;
    height: 180px;
@@ -88,6 +89,7 @@ main {
    padding: 4px;
    filter: brightness(80%);
 }
+*/
 
 .cardcard {
    margin: 0 auto;
