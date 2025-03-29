@@ -44,6 +44,21 @@ h5 {
    text-align: center;
 }
 
+@media screen and (max-width: 576px) {
+   main {
+      width: 350px;
+   }
+   .card {
+      width: 300px;
+   }
+   .bild {
+      height: 180px;
+   }
+   .bild > img {
+      height: 180px;
+   }
+}
+
 code {
    font-size: 14px;
    color: var(--green);
@@ -64,10 +79,6 @@ main {
    padding: 0;
    margin: 0 auto;
    width: 600;
-}
-
-.cardcontainer {
-   display: flex;
 }
 
 .card {
