@@ -81,10 +81,13 @@ img {
    padding: 10px 16px;
    margin: 0 auto 16px;
    max-width: 60px;
-   color: #d47800;
    text-align: center;
    border: solid 1px #393939;
    border-radius: 5px;
+}
+
+a:link {
+   color: #d47800;
 }
 
 .knop:hover {
