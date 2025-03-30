@@ -60,16 +60,6 @@ body {
    background-color: var(--black-2);
 }
 
-.card {
-   padding: min(5em, 8%);
-   margin: 0 auto 15px;
-   width: 1550px;
-   border: solid 3px;
-   border-radius: 6px;
-   border-color: var(--red-2);
-}
-
-/*
 .container {
    width: 550px;
    padding: 5em;
@@ -80,4 +70,3 @@ body {
    padding: 2em;
    }
 }
-*/
