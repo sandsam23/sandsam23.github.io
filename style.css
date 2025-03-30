@@ -77,20 +77,10 @@ img {
    filter: brightness(80%);
 }
 
-.content {
-   display: flex;
-   flex-direction: column;
-   align-items: center;
-   text-align: center;
-}
-
-.button {
+.knop {
+   padding: 10px 15px;
    margin: 0 auto;
    text-align: center;
-}
-
-.button > a {
-   padding: 10px 15px;
    color: #d47800;
    border: solid 1px #393939;
    border-radius: 5px;
@@ -108,7 +98,7 @@ img {
 }
 */
 
-.button:hover {
+.knop:hover {
    transition: 0.3s ease;
    color: #191919;
    background-color: #d47800;
