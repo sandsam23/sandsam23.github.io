@@ -78,10 +78,6 @@ img {
 }
 
 .button {
-   font-weight: 300;
-   font-style: normal;
-   font-size: calc(0.7rem + 0.4vw);
-   line-height: 1ch;
    padding: 10px 15px;
    color: #d47800;
    border: solid 1px #393939;
@@ -93,7 +89,6 @@ img {
 }
 
 .button:hover {
-   font-weight: 300;
    transition: 0.3s ease;
    color: #191919;
    background-color: #d47800;
