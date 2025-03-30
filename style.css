@@ -60,21 +60,22 @@ body {
    background-color: var(--black-2);
 }
 
-.card {
-   padding: 8px;
+.container {
+   padding: 0px;
    margin: 0 auto 15px;
-   width: 300px;
-   border: solid 1px;
+   border: solid 2px;
    border-radius: 6px;
    border-color: var(--red-2);
 }
 
-.container {
+.card {
    padding: 8px;
-   border: solid 1px;
+   width: 600px;
+   border: solid 2px;
    border-radius: 6px;
    border-color: var(--red-2);
 }
+
 
 /*
 @media(max-width: 700px) {
