@@ -78,15 +78,15 @@ img {
 }
 
 .button {
-   padding: 10px 15px;
    margin: 0 auto;
    text-align: center;
-   border: solid 1px #393939;
-   border-radius: 5px;
 }
 
 .button > a {
+   padding: 10px 15px;
    color: #d47800;
+   border: solid 1px #393939;
+   border-radius: 5px;
 }
 
 /*
