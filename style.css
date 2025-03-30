@@ -87,6 +87,12 @@ img {
    border-radius: 5px;
 }
 
+.knop > a {
+   letter-spacing: 2px;
+   text-decoration: none;
+   cursor: pointer;
+}
+
 /*
 .button > a {
    font-weight: 300;
