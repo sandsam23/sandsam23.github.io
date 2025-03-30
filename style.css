@@ -86,20 +86,17 @@ img {
    border-radius: 5px;
 }
 
-.knop:link {
+.knop > a {
+   letter-spacing: 2px;
+   text-decoration: none;
    color: #d47800;
+   cursor: pointer;
 }
 
 .knop:hover {
    transition: 0.3s ease;
-   color: #191919;
    background-color: #d47800;
-}
-
-.knop > a {
-   letter-spacing: 2px;
-   text-decoration: none;
-   cursor: pointer;
+   color: #191919;
 }
 
 footer {
