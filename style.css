@@ -89,14 +89,17 @@ img {
 .knop > a {
    letter-spacing: 2px;
    text-decoration: none;
-   color: #d47800;
    cursor: pointer;
+}
+
+.knop:link {
+   color: #d47800;
 }
 
 .knop:hover {
    transition: 0.3s ease;
-   background-color: #d47800;
    color: #191919;
+   background-color: #d47800;
 }
 
 footer {
