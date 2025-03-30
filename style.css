@@ -77,3 +77,16 @@ img {
    filter: brightness(80%);
 }
 
+footer {
+   position: sticky;
+   bottom: 20px;
+   text-align: left;
+}
+
+footer > a {
+   font-size: 20px;
+   text-decoration: none;
+   color: var(--gruv-blue);
+   background-color: var(--red-2);
+}
+
