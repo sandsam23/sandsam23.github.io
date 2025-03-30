@@ -81,14 +81,14 @@ img {
    padding: 10px 16px;
    margin: 0 auto 16px;
    max-width: 60px;
-   color: #d47800;
    text-align: center;
    border: solid 1px #393939;
    border-radius: 5px;
 }
 
-.knop > a {
+a {
    letter-spacing: 2px;
+   color: #d47800;
    text-decoration: none;
    cursor: pointer;
 }
