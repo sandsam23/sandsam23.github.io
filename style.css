@@ -70,6 +70,7 @@ body {
 }
 
 .container {
+   width: 550px;
    padding: 5em;
 }
 
