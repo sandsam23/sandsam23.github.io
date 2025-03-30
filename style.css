@@ -79,6 +79,7 @@ img {
 
 footer {
    max-width: 600px;
+   margin: 0 auto;
    position: sticky;
    bottom: 20px;
    text-align: left;
