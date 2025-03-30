@@ -87,28 +87,16 @@ img {
    border-radius: 5px;
 }
 
-.knop > a {
-   letter-spacing: 2px;
-   text-decoration: none;
-   cursor: pointer;
-}
-
-/*
-.button > a {
-   font-weight: 300;
-   font-style: normal;
-   font-size: calc(0.7rem + 0.4vw);
-   line-height: 1ch;
-   letter-spacing: 2px;
-   text-decoration: none;
-   cursor: pointer;
-}
-*/
-
 .knop:hover {
    transition: 0.3s ease;
    color: #191919;
    background-color: #d47800;
+}
+
+.knop > a {
+   letter-spacing: 2px;
+   text-decoration: none;
+   cursor: pointer;
 }
 
 footer {
