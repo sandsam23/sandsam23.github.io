@@ -70,7 +70,7 @@ body {
 }
 
 .container {
-   padding: 5em;
+   padding: 8px;
    border: solid 1px;
    border-radius: 6px;
    border-color: var(--red-2);
