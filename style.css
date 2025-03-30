@@ -61,7 +61,7 @@ body {
 }
 
 .card {
-   padding: min(8%, 5em);
+   padding: min(5em, 0.08);
    margin: 0 auto 15px;
    width: 550px;
    border: solid 3px;
