@@ -63,7 +63,7 @@ body {
 .card {
    padding: min(5em, 8%);
    margin: 0 auto 15px;
-   width: 550px;
+   width: 1550px;
    border: solid 3px;
    border-radius: 6px;
    border-color: var(--red-2);
