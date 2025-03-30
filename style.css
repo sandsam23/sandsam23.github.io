@@ -105,7 +105,7 @@ a {
 }
 */
 
-.knop > a:hover {
+.knop:hover {
    transition: 0.3s ease;
    color: #191919;
    background-color: #d47800;
