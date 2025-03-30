@@ -87,7 +87,7 @@ img {
    border-radius: 5px;
 }
 
-a {
+.knop > a {
    letter-spacing: 2px;
    text-decoration: none;
    cursor: pointer;
