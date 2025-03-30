@@ -62,7 +62,7 @@ body {
 
 .card {
    padding: 0 10px;
-   margin: 0 auto 15px;
+   margin: 0 auto 16px;
    max-width: 600px;
    border: solid 2px;
    border-radius: 6px;
@@ -78,7 +78,8 @@ img {
 }
 
 .knop {
-   padding: 10px 15px;
+   padding: 10px 16px;
+   margin: 0 auto 16px;
    max-width: 60px;
    text-align: center;
    color: #d47800;
