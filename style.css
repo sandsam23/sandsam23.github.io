@@ -62,17 +62,10 @@ body {
 
 .card {
    padding: 8px;
+   margin: 0 auto 15px;
    max-width: 600px;
    border: solid 2px;
    border-radius: 6px;
    border-color: var(--red-2);
 }
-
-/*
-@media(max-width: 700px) {
-   .container {
-   padding: 2em;
-   }
-}
-*/
 
