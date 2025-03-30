@@ -62,7 +62,6 @@ body {
 
 .card {
    padding: 0.5em;
-   width: 600px;
    border: solid 2px;
    border-radius: 6px;
    border-color: var(--red-2);
