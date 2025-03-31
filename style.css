@@ -42,7 +42,6 @@ img {
 
 .knop {
    display: inline-block;
-   vertical-align: middle;
    padding: 10px 16px;
    margin: 0 auto 16px;
    color: var(--gruv-yellow-2);
