@@ -2,46 +2,9 @@
    scrollbar-width: none;
 }
 
-:root {
-   --black: #000000;
-   --black-2: #191919;
-   --darkgrey-2: #636363;
-   --blue: #11a3c7;
-   --green: #008000;
-   --purple: #663399;
-   --beige-2: #947b5a;
-   --orange: #d47800;
-   --red-2: #870000;
-   --gruv-blue: #83a598;
-   --gruv-green: #b8bb26;
-   --gruv-aqua: #8ec07c;
-   --gruv-yellow: #fabd2f;
-   --gruv-red: #fb4934;
-}
-
-h1 {
-   color: var(--gruv-aqua);
-}
-
-h2 {
-   color: var(--beige-2);
-}
-
-h3 {
-   color: var(--orange);
-}
-
-h4 {
-   color: var(--gruv-yellow);
-}
-
-h5 {
-   color: var(--gruv-green);
-}
-
 h1,h2,h3,h4,
 h5 {
-   text-align: center;
+   text-align: center
 }
 
 code {
@@ -66,7 +29,7 @@ body {
    max-width: 600px;
    border: solid 2px;
    border-radius: 6px;
-   border-color: #393939;
+   border-color: var(--darkgrey);
 }
 
 img {
@@ -80,9 +43,10 @@ img {
 .knop {
    display: inline-block;
    padding: 10px 16px;
-   color: #d47800;
+   margin: 0 auto 16px;
+   color: var(--gruv-yellow-2);
    background-color:var(--black-2);
-   border: solid 1px #393939;
+   border: solid 1px var(--darkgrey);
    border-radius: 6px;
    text-align: center;
    text-decoration: none;
@@ -93,7 +57,7 @@ img {
 
 .knop:hover {
    color: var(--black-2);
-   background-color: #d47800;
+   background-color: var(--gruv-yellow-2);
 }
 
 footer {
@@ -109,5 +73,45 @@ footer > a {
    text-decoration: none;
    color: var(--gruv-blue);
    background-color: var(--red-2);
+}
+
+/* COLORS */
+:root {
+   --black: #000000;
+   --black-2: #191919;
+   --darkgrey: #393939;
+   --darkgrey-2: #636363;
+   --blue: #11a3c7;
+   --green: #008000;
+   --purple: #663399;
+   --beige-2: #947b5a;
+   --orange: #d47800;
+   --red-2: #870000;
+   --gruv-blue: #83a598;
+   --gruv-green: #b8bb26;
+   --gruv-aqua: #8ec07c;
+   --gruv-yellow: #fabd2f;
+   --gruv-yellow-2: #d47800;
+   --gruv-red: #fb4934;
+}
+
+h1 {
+   color: var(--gruv-aqua);
+}
+
+h2 {
+   color: var(--beige-2);
+}
+
+h3 {
+   color: var(--orange);
+}
+
+h4 {
+   color: var(--gruv-yellow);
+}
+
+h5 {
+   color: var(--gruv-green);
 }
 
