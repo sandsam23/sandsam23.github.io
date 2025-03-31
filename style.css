@@ -30,6 +30,7 @@ body {
    border: solid 2px;
    border-radius: 6px;
    border-color: var(--darkgrey);
+   text-align: center;
 }
 
 img {
