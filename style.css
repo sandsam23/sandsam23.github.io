@@ -40,10 +40,6 @@ img {
    filter: brightness(80%);
 }
 
-.knopcontainer {
-   margin: 0 auto;
-}
-
 .knop {
    display: inline-block;
    padding: 10px 16px;
@@ -52,8 +48,8 @@ img {
    background-color:var(--black-2);
    border: solid 1px var(--darkgrey);
    border-radius: 6px;
-   text-align: center;
    text-decoration: none;
+   letter-spacing: 2px;
    font-size: 16px;
    cursor: pointer;
    transition: 0.3s ease;
