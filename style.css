@@ -77,31 +77,6 @@ img {
    filter: brightness(80%);
 }
 
-.knop {
-   padding: 10px 16px;
-   margin: 0 auto 16px;
-   max-width: 60px;
-   text-align: center;
-   border: solid 1px #393939;
-   border-radius: 5px;
-}
-
-.knop > a {
-   letter-spacing: 2px;
-   text-decoration: none;
-   cursor: pointer;
-}
-
-.knop:link {
-   color: #d47800;
-}
-
-.knop:hover {
-   transition: 0.3s ease;
-   color: #191919;
-   background-color: #d47800;
-}
-
 footer {
    margin: 0 auto;
    max-width: 600px;
