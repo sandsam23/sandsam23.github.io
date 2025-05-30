@@ -48,7 +48,7 @@ img {
 }
 
 .gallery {
-   width: 600px;
+   width: 100%;
    height: auto;
    object-fit: contain;
 }
