@@ -48,6 +48,8 @@ img {
 }
 
 .gallery {
+   width: 600px;
+   height: 100%;
    object-fit: contain;
 }
 
