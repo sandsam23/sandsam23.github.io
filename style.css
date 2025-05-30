@@ -51,6 +51,10 @@ img {
    object-fit: contain;
 }
 
+#gallery {
+   border: unset;
+}
+
 .coop {
    text-align: center;
 }
