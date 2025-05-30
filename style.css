@@ -53,6 +53,7 @@ img {
 
 #gallery {
    border: unset;
+   overflow: hidden;
 }
 
 .coop {
