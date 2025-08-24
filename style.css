@@ -18,6 +18,13 @@ code {
 }
 
 body {
+  background-image: url('trixie-1920x1080.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+body {
    padding: 0 8px;
    margin: 0;
    width: 100%;
