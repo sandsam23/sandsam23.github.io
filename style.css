@@ -18,7 +18,6 @@ code {
 }
 
 .trix {
-  background-image: url('/images/trixie-1920x1080.svg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: contain;
