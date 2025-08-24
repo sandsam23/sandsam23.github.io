@@ -17,8 +17,8 @@ code {
    background-color: var(--black);
 }
 
-body {
-  background-image: url('trixie-1920x1080.svg');
+.trix {
+  background-image: url('/images/trixie-1920x1080.svg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: contain;
