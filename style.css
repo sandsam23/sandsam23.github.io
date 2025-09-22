@@ -111,7 +111,7 @@ footer > a {
    --black-2: #191919;
    --darkgrey: #393939;
    --darkgrey-2: #636363;
-   --start: #212830;
+   --start: #2b2a33;
    --blue: #11a3c7;
    --green: #008000;
    --purple: #663399;
@@ -151,5 +151,7 @@ p {
 }
 
 #start {
+   width: 100%;
+   height: 100vw;
    background-color: var(--start);
 }
