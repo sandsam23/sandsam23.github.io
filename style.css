@@ -111,6 +111,7 @@ footer > a {
    --black-2: #191919;
    --darkgrey: #393939;
    --darkgrey-2: #636363;
+   --start: #212830;
    --blue: #11a3c7;
    --green: #008000;
    --purple: #663399;
@@ -147,4 +148,8 @@ h5 {
 
 p {
    text-align: center;
+}
+
+#start {
+   background-color: var(--start);
 }
